@@ -7,6 +7,8 @@ import { AddMoviesComponent } from './components/add-movies/add-movies.component
 import { MoviesHomeComponent } from './components/movies-home/movies-home.component';
 import { AppRoutingModule } from './app-routing/app-routing.module';
 import { ButtonComponent } from './components/button/button.component';
+import { MovieTileComponent } from './components/movie-tile/movie-tile.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
   declarations: [
@@ -14,12 +16,13 @@ import { ButtonComponent } from './components/button/button.component';
     ToolBarComponent,
     MoviesHomeComponent,
     AddMoviesComponent,
-    ButtonComponent
-
+    ButtonComponent,
+    MovieTileComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
