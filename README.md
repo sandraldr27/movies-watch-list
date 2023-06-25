@@ -9,7 +9,9 @@
 </ul>
 
 <h2>Application Preview</h2>
-https://github.com/sandraldr27/movies-watch-list/assets/116546588/4e2eae52-8cce-4e56-91b6-8276338e6aea
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
+https://github.com/sandraldr27/movies-watch-list/assets/116546588/4387330c-a821-4ce7-8cfc-398e07e0a6ad
+</div>
 
 <h2>Next Steps</h2>
 <ul>
