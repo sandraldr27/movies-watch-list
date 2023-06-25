@@ -1,27 +1,31 @@
-# MoviesWatchList
+<h2>Project Description</h2>
+<ul>
+<li>The design and preliminary implementation (In Angular 16.0.3) of an application that allows to store movies is made, through the name and url of an image related to it (As a Personal billboard), that are of the user's taste.</li> 
+<li>The user can: Add the name of a new movie and the related url to the image of the same movie. When adding the movie for the first time it will appear in the field of movies to watch.</li>  
+<li>If the movie has been seen, you can click on the viewer icon, so the movie will go to the list of movies already seen.</li>  
+<li>In the list of movies viewed, the user can click on the heart icon to indicate that the movie has been liked.</li> 
+<li>If by mistake the movie has been placed in the list of watched movies, clicking on the viewer icon will deactivate that option, going back to the list of movies to watch.</li>  
+<li>If a movie has been liked by mistake, clicking on the heart icon will reverse the action, leaving it as unlike</li> 
+</ul>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+<h2>Application Preview</h2>
+https://github.com/sandraldr27/movies-watch-list/assets/116546588/4e2eae52-8cce-4e56-91b6-8276338e6aea
 
-## Development server
+<h2>Next Steps</h2>
+<ul>
+<li>Add a header.</li>  
+<li>Add a footer.</li>  
+<li>Add the title of the movies in the main view and a short review.</li>  
+<li>Add in each movie a link to the official trailer on YouTube.</li>   
+</ul>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h2>Stacks</h2>
+<ul>
+<li>Angular 16.0.3</li> 
+<li>HTML5</li> 
+<li>SASS</li> 
+<li>TypeScript</li> 
+<li>Fotor</li> 
+</ul>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
