@@ -4,22 +4,22 @@
       "id": 1,
       "title": "Avengers 4",
       "image": "assets/avengers-4.jpg",
-      "isWatched": false,
-      "isFav": false
+      "isWatched": true,
+      "isFav": true
     },
     {
       "id": 2,
       "title": "Avatar 2",
       "image": "assets/avatar-2.jpg",
-      "isWatched": false,
-      "isFav": false
+      "isWatched": true,
+      "isFav": true
     },
     {
       "id": 3,
       "title": "Black widow",
       "image": "assets/blackwidow.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 4,
@@ -33,21 +33,21 @@
       "title": "Army of Thieves",
       "image": "assets/army-of-thieves.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 6,
       "title": "Finch",
       "image": "assets/finch.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 7,
       "title": "Light Years",
       "image": "assets/light-years.jpg",
       "isWatched": false,
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 8,
@@ -106,7 +106,7 @@
       "id": 86933
     },
     {
-      "isFav": false,
+      "isFav": true,
       "isWatched": false,
       "image": "https://www.cineycine.com/archivos/2013/12/karate-kid-2.jpg",
       "title": "Karate Kid II",
@@ -114,10 +114,17 @@
     },
     {
       "isFav": false,
-      "isWatched": true,
+      "isWatched": false,
       "image": "https://musicart.xboxlive.com/7/4c9b2a00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
       "title": "Karate Kid III",
       "id": 35928
+    },
+    {
+      "isFav": false,
+      "isWatched": false,
+      "image": "https://showbuzzrd.com/wp-content/uploads/2021/09/psicosis.jpg",
+      "title": "Psicosis",
+      "id": 92182
     }
   ],
   "favourites": [],
